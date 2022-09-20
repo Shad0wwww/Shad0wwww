@@ -2,7 +2,7 @@
 
 ## I'm a Student, Gamer and Developer!!
 - 🔥 Proficient in **Java**, **HTML** & **CSS**.
-- 🌱 I’m currently learning **Javascript** 🤣
+- 🌱 I’m currently learning **Javascript**, **node.js** & **mongoDB** 🤣
 - 🥅 2022 Goals: Being good at Java and Javascript..
 - 📫 How to reach me: **magn193b@faae.dk**.
 - ⚡ Fun fact: I'm a great Minecraft Player
