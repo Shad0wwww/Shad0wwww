@@ -1,9 +1,10 @@
 # Hi there, I'm Magnus 👋 
 
 ## I'm a Student, Gamer and Developer!!
-
-- 🌱 I’m currently learning Javascript 🤣
+- 🔥 Proficient in **Java**, **HTML** & **CSS**.
+- 🌱 I’m currently learning **Javascript** 🤣
 - 🥅 2022 Goals: Being good at Java and Javascript..
+- 📫 How to reach me: **magn193b@faae.dk**.
 - ⚡ Fun fact: I'm a great Minecraft Player
 <details>
   <summary>:zap: GitHub Stats</summary>
