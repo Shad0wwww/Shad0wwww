@@ -1,9 +1,9 @@
 # Hi there, I'm Magnus 👋 
 
 ## I'm a Student, Gamer and Developer!!
-- 🔥 Proficient in **Java**, **Javascript**, **HTML** & **CSS**.
-- 🌱 I’m currently learning **electron** & **mongoDB** 🤣
-- 🥅 2022 Goals: Being good at **mongoDB** and **Javascript**..
+- 🔥 Proficient in **Java**, **Javascript**, **Discord-js** **HTML** & **CSS**.
+- 🌱 I’m currently learning **React** & **MongoDB** 🤣
+- 🥅 2022 Goals: Being good at **React** and **MongoDB**..
 - 📫 How to reach me: **magn193b@faae.dk**.
 - ⚡ Fun fact: I'm a great Minecraft Player
 ### :hammer_and_wrench: Languages and Tools :
