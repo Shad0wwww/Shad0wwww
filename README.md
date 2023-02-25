@@ -1,11 +1,9 @@
 # Hi there, I'm Magnus 👋 
 
 ## I'm a Student, Gamer and Developer!!
-- 🔥 Proficient in **Java**, **Javascript**, **Discord-js**, **HTML** & **CSS**.
-- 🌱 I’m currently learning **React** & **MongoDB** 🤣
-- 🥅 2022 Goals: Being good at **React** and **MongoDB**..
+- 🔥 Proficient in **Java**, **Javascript**, **HTML** & **CSS**.
+- 🌱 I’m currently learning **Vue** & **MongoDB** 
 - 📫 How to reach me: **magn193b@faae.dk**.
-- ⚡ Fun fact: I'm a great Minecraft Player
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
