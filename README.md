@@ -1,9 +1,8 @@
 # Hi there, I'm Magnus 👋 
 
 ## I'm a Student, Gamer and Developer!!
-- 🔥 Proficient in **Java**, **Javascript**, **HTML** & **CSS**.
+- 🔥 Proficient in **Java**, **Python**, **Javascript**, **HTML** & **CSS**.
 - 🌱 I’m currently learning **Typescript** & **MongoDB** 
-- 📫 How to reach me: **magn193b@faae.dk**.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
