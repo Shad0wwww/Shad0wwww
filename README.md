@@ -2,7 +2,7 @@
 
 ## I'm a Student, Gamer and Developer!!
 - 🔥 Proficient in **Java**, **Javascript**, **HTML** & **CSS**.
-- 🌱 I’m currently learning **Vue** & **MongoDB** 
+- 🌱 I’m currently learning **Typescript** & **MongoDB** 
 - 📫 How to reach me: **magn193b@faae.dk**.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
